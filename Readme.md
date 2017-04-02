@@ -24,5 +24,6 @@ The JSON is going to have the following structure:
 ```
 `Page#1` represents the page of the PDF document and it's value is the list of words occuring in page 1 of the PDF document.
 
->Note: At the moment, this utility only focusses on the PDF documents found on IEEE's Xplore website
+>Note: At the moment, this utility only focusses on the PDF documents found on IEEE's Xplore website.
+
 >Note: This utility makes use of `PDFMiner` utility made by `Yusuke Shinayama`.
