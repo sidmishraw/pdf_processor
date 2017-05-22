@@ -26,4 +26,6 @@ The JSON is going to have the following structure:
 
 >Note: At the moment, this utility only focusses on the PDF documents found on IEEE's Xplore website.
 
->Note: This utility makes use of `PDFMiner` utility made by `Yusuke Shinayama`.
+>Note: This utility makes use of [`PDFMiner`](https://github.com/euske/pdfminer) utility made by `Yusuke Shinyama`.
+
+### Min req: Python v3.5.2
